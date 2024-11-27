@@ -25,6 +25,24 @@ The project implements a backtesting framework and machine learning-based tradin
 3. Comparing the performance of ML models in financial trading.
 4. Backtesting trading strategies and producing detailed reports.
 
+
+# Trading Machine Learning Reports
+
+Access the reports for the Logistic Regression and MLP Classifier models below. Click on the respective links to view the detailed analysis.
+
+| **Logistic Regression Reports**                                    | **MLP Classifier Reports**                                    |
+|--------------------------------------------------------------------|----------------------------------------------------------------|
+| [CL_LogisticRegression](https://dyllon-preston.github.io/trading-ML/CL_LogisticRegression.html) | [CL_MLPClassifier](https://dyllon-preston.github.io/trading-ML/CL_MLPClassifier.html) |
+| [FE_LogisticRegression](https://dyllon-preston.github.io/trading-ML/FE_LogisticRegression.html) | [FE_MLPClassifier](https://dyllon-preston.github.io/trading-ML/FE_MLPClassifier.html) |
+| [FTV_LogisticRegression](https://dyllon-preston.github.io/trading-ML/FTV_LogisticRegression.html) | [FTV_MLPClassifier](https://dyllon-preston.github.io/trading-ML/FTV_MLPClassifier.html) |
+| [HST_LogisticRegression](https://dyllon-preston.github.io/trading-ML/HST_LogisticRegression.html) | [HST_MLPClassifier](https://dyllon-preston.github.io/trading-ML/HST_MLPClassifier.html) |
+| [IQV_LogisticRegression](https://dyllon-preston.github.io/trading-ML/IQV_LogisticRegression.html) | [IQV_MLPClassifier](https://dyllon-preston.github.io/trading-ML/IQV_MLPClassifier.html) |
+| [MOS_LogisticRegression](https://dyllon-preston.github.io/trading-ML/MOS_LogisticRegression.html) | [MOS_MLPClassifier](https://dyllon-preston.github.io/trading-ML/MOS_MLPClassifier.html) |
+| [MU_LogisticRegression](https://dyllon-preston.github.io/trading-ML/MU_LogisticRegression.html) | [MU_MLPClassifier](https://dyllon-preston.github.io/trading-ML/MU_MLPClassifier.html) |
+| [PPG_LogisticRegression](https://dyllon-preston.github.io/trading-ML/PPG_LogisticRegression.html) | [PPG_MLPClassifier](https://dyllon-preston.github.io/trading-ML/PPG_MLPClassifier.html) |
+| [TMUS_LogisticRegression](https://dyllon-preston.github.io/trading-ML/TMUS_LogisticRegression.html) | [TMUS_MLPClassifier](https://dyllon-preston.github.io/trading-ML/TMUS_MLPClassifier.html) |
+| [UPS_LogisticRegression](https://dyllon-preston.github.io/trading-ML/UPS_LogisticRegression.html) | [UPS_MLPClassifier](https://dyllon-preston.github.io/trading-ML/UPS_MLPClassifier.html) |
+
 ---
 
 ## Requirements
