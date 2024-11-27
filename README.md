@@ -28,7 +28,7 @@ The project implements a backtesting framework and machine learning-based tradin
 
 # Trading Machine Learning Reports
 
-Access the reports for the Logistic Regression and MLP Classifier models below. Click on the respective links to view the detailed analysis.
+Access the reports for the Logistic Regression and MLP Classifier models below. Click on the respective links to view the detailed analysis generated using quantstats.
 
 | **Logistic Regression Reports**                                    | **MLP Classifier Reports**                                    |
 |--------------------------------------------------------------------|----------------------------------------------------------------|
