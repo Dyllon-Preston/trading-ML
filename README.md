@@ -74,7 +74,7 @@ Follow the steps below to set up the project environment:
    ```bash
    git clone https://github.com/Dyllon-Preston/trading-ML
    cd trading-ML
-
+   ```
 
 2. **Set up a python Enviroment Using Conda**
 
