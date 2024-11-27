@@ -7,7 +7,7 @@ import backtrader as bt
 import quantstats as qs
 from utility import build_indicators, CustomCSVData, MLStrategy
 
-def generate_reports(stocks, models, report_dir='./reports/', performance_dir='./reports/', start_date = '2019-01-01', end_date = '2024-11-23',
+def generate_reports(stocks, models, report_dir='./docs/', performance_dir='./docs/', start_date = '2019-01-01', end_date = '2024-11-23',
                      training_start_date='2005-01-01', training_end_date='2024-11-23', lookahead=7, threshold=0.5, starting_cash = 100_000, commission = 0.001):
     """
     Generate performance reports for multiple stocks using given ML models.
