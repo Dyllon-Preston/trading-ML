@@ -1,0 +1,8 @@
+# Ignore Python bytecode cache files
+__pycache__/
+*.pyc
+
+# Ignore everything inside the specified directories
+/snp_stocks/
+/stocks/
+/tickers/
