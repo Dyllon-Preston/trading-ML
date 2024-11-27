@@ -7,6 +7,7 @@ This repository contains an implementation of a trading strategy powered by mach
 ## Table of Contents
 
 - [Overview](#overview)
+- [Example Backtesting Reports](#example-backtesting-reports)
 - [Requirements](#requirements)
 - [Installation](#installation)
 - [Project Structure](#project-structure)
@@ -25,8 +26,9 @@ The project implements a backtesting framework and machine learning-based tradin
 3. Comparing the performance of ML models in financial trading.
 4. Backtesting trading strategies and producing detailed reports.
 
+---
 
-# Trading Machine Learning Reports
+## Example Backtesting Reports
 
 Access the reports for the Logistic Regression and MLP Classifier models below. Click on the respective links to view the detailed analysis generated using quantstats.
 
